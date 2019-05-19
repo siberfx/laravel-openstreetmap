@@ -5,7 +5,7 @@
 $ composer require kolirt/laravel-openstreetmap
 ```
 ```
-$ php artisan sigmasms:install
+$ php artisan openstreetmap:install
 ```
 
 ## Methods
