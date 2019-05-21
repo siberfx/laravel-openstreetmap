@@ -1,4 +1,4 @@
-# Laravel Openstreetmap 1.0.0
+# Laravel Openstreetmap 
 
 ## Installation
 ```

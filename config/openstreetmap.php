@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'lang' => app()->getLocale(),
+    'lang' => 'en',
 ];
