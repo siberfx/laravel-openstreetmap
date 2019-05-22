@@ -14,7 +14,7 @@ class Openstreetmap
     {
         $this->client = new Client([
             'base_uri' => $this->api,
-            'timeout' => 10
+            'timeout' => config('openstreetmap.timeout', 1)
         ]);
     }
 
