@@ -3,7 +3,7 @@
   "description": "Package for openstreetmap.org",
   "keywords": ["laravel", "openstreetmap", "map"],
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Asan Abdurakhmanov",
@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "^6.3"
+    "guzzlehttp/guzzle": "> 6.0.0"
   },
   "autoload": {
     "files": [
